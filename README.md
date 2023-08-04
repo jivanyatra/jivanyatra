@@ -3,7 +3,8 @@
 I am a backend developer (python primarily) who also works with DevOps technologies.
 
 Check out my pinned repositories for some examples of the kinds of things I've done. The most interesting thing I worked on extracurricularly is:
-* I created an updated mechanism of sending odd keycodes for the QMK firmware targeting the Planck EZ Glow keyboard
+* I created an updated mechanism of sending odd keycode combinations for the QMK firmware targeting the Planck EZ Glow keyboard
+* This allows one to use it alongside AutoHotKey for use as macro board, stream deck, etc.
 
 I am a programmer and IT specialist who has vetted, onboarded, and integrated various SaaS solutions for small and mid-size companies in the AI/ML SaaS, e-commerce, shipping, and inventory management spaces. I have been using Python (3.5+) to solve problems in numerous operations for about five years. Prior to and alongside my software development projects, I was a project manager for several internal software products and I also served as a mentor for numerous beginner programmers through a bootcamp program. My most recent experience is centered around backend technologies such as RESTful APIs, microservices, and ETL processes. Prior to that, I gained deep experience in writing programs and integrations for ecommerce and business-related domains such as:
 * inventory management
