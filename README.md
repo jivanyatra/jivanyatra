@@ -2,25 +2,38 @@
 
 I am a backend developer (python primarily) who also works with DevOps technologies.
 
-Check out my pinned repositories for some examples of the kinds of things I've done.
+Check out my pinned repositories for some examples of the kinds of things I've done. The most interesting thing I worked on extracurricularly is:
+* I created an updated mechanism of sending odd keycodes for the QMK firmware targeting the Planck EZ Glow keyboard
 
-I am a programmer and IT specialist who has vetted, onboarded, and integrated various SaaS solutions for small and mid-size companies in the e-commerce, shipping, and inventory management spaces. I have been using Python (3.5+) to solve problems in numerous operations for about five years. Prior to and alongside my software development projects, I was a project manager for several internal software products and I also served as a mentor for numerous beginner programmers through a bootcamp program. I have deep experience in ecommerce-related domains such as inventory management, shipping, physical product refurbishment, and technical support, as well as business-focused domains such as invoicing, price tracking, customer solutions, and long-term relationship management.
+I am a programmer and IT specialist who has vetted, onboarded, and integrated various SaaS solutions for small and mid-size companies in the AI/ML SaaS, e-commerce, shipping, and inventory management spaces. I have been using Python (3.5+) to solve problems in numerous operations for about five years. Prior to and alongside my software development projects, I was a project manager for several internal software products and I also served as a mentor for numerous beginner programmers through a bootcamp program. My most recent experience is centered around backend technologies such as RESTful APIs, microservices, and ETL processes. Prior to that, I gained deep experience in writing programs and integrations for ecommerce and business-related domains such as:
+* inventory management
+* shipping
+* physical product refurbishment
+* technical support
+* invoicing
+* price tracking
+* customer solutions
+* long-term relationship management.
+
+Most recently, I worked for SupportLogic.io as a backend developer, focusing on the ETL/ELT processes in the data ingestion system, also working on a replacement for our data import tool.
 
 ---
 
 ### My Tools of Choice
 
-* Python (3.6+), though I'm not a stranger to JavaScript/ES6 and some C#/Mono
+* Python (preferably 3.8+), though I'm not a stranger to JavaScript/ES6 and shell scripting as well
 * Django, though I'm familiar with Flask
+* FastAPI
 * Pandas, Bokeh, MatPlotLib for reporting/data
 * PostgreSQL (sometimes MySQL)
 * Click, Rich, tqdm for command-line
-* Linux/Debian, though I'm familair with Windows and Mac OS
+* Linux/Debian, though I'm familiar with Windows and Mac OS
+* Docker for deployed code
 * Git for version control
 
 ### My Experience
 
-I have a 5+ years of experience in:
+I have a 6+ years of experience in:
 * programming in `Python 3+`
 * designing, documenting, and consuming `RESTful APIs`
 * creating command-line applications
@@ -54,9 +67,12 @@ I also have been a Linux user in some form since 1999!
 
 ### Key Achievements
 
+* Organized and project managed a hackathon group, taking an idea for a self-serve onboarding tool starting at defining stages and through to MVP. (SupportLogic 2022)
+* Created in-depth documentation targeted at DevOps for the triage, logging, and resolution of critical customer ETL processes. (SupportLogic 2022)
+* Mentored and guided 2 junior devs through onboarding and critical triage practices, directly decreasing customer response time. (SupportLogic 2022)
 * Mentored, educated, and prepared five beginner-level students at Rmotr for Junior Developer positions, kickstarting their career changes. (Rmotr 2016)
 * Analyzed a process for returns management that utilized 12 staff members between 3 departments and 4 managers that used Google Docs and created a no/low code database application in 5 weeks, which tripled staff output, saved roughly $20,000/month, and increased customer satisfaction by 22%. (Spytec GPS 2018)
-* Held both Secretary and Vice President equivalent board positions in organizations.
+* Held both Secretary and President-equivalent board positions in multiple organizations.
 
 ---
 
