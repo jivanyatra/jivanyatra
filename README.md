@@ -73,6 +73,7 @@ I also have been a Linux user in some form since 1999!
 * Mentored and guided 2 junior devs through onboarding and critical triage practices, directly decreasing customer response time. (SupportLogic 2022)
 * Mentored, educated, and prepared five beginner-level students at Rmotr for Junior Developer positions, kickstarting their career changes. (Rmotr 2016)
 * Analyzed a process for returns management that utilized 12 staff members between 3 departments and 4 managers that used Google Docs and created a no/low code database application in 5 weeks, which tripled staff output, saved roughly $20,000/month, and increased customer satisfaction by 22%. (Spytec GPS 2018)
+* Wrote for How-To Geek, author page: [YatriTrivedi](https://www.howtogeek.com/author/yatritrivedi/)
 * Held both Secretary and President-equivalent board positions in multiple organizations.
 
 ---
