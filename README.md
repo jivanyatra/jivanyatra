@@ -78,6 +78,10 @@ I also have been a Linux user in some form since 1999!
 
 ---
 
+[Oryx Layout for ZSA Voyager](https://configure.zsa.io/voyager/layouts/o5bjG/)
+[Oryx Layout for ZSA Voyager (older)](https://configure.zsa.io/voyager/layouts/Xgr7x/latest/0)
+[Oryx Layout for ZSA Planck EZ Glow](https://configure.zsa.io/planck-ez/layouts/EoPE5/Y7Law/0)
+[Custom FW Layout for ZSA Plank EZ Glow (to use with Taran's script for macros)](https://github.com/jivanyatra/planck_ez_glow_macros)
 
 
 
